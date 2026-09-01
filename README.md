@@ -19,10 +19,10 @@ Una plataforma web Full Stack diseñada para automatizar y optimizar el control 
 - **Validación Robusta:** Formularios estrictos para evitar errores humanos (data entry).
 
 ## 📸 Interfaz y Demostración
-
+<img width="1330" height="580" alt="Captura de pantalla 2026-09-01 204445" src="https://github.com/user-attachments/assets/ba09bc18-5be4-4d63-b077-7a9cf9b6521f" />
 <img width="1138" height="549" alt="Captura de pantalla 2026-09-01 204817" src="https://github.com/user-attachments/assets/b55f2768-46d1-4149-b663-6de5826aa2ac" />
 <img width="1127" height="545" alt="Captura de pantalla 2026-09-01 204724" src="https://github.com/user-attachments/assets/57b497ee-f8fd-424f-98cb-a68ae2410db0" />
-<img width="1330" height="580" alt="Captura de pantalla 2026-09-01 204445" src="https://github.com/user-attachments/assets/ba09bc18-5be4-4d63-b077-7a9cf9b6521f" />
+
 
 ## 🛠️ Arquitectura y Stack Tecnológico
 
