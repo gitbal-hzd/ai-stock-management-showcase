@@ -27,10 +27,13 @@ Vista general del sistema donde el administrador puede visualizar métricas clav
 
 ---
 
-### 🤖 Asistente de Inteligencia Artificial y 📝 Carga Automatizada de Productos
+### 🤖 Asistente de Inteligencia Artificial y 📝 Carga Automatizada o Manual de Productos
 Chatbot integrado capaz de leer la base de datos en tiempo real para auditar el stock y alertar sobre quiebres de inventario.
 
 <img width="1138" height="549" alt="Captura de pantalla 2026-09-01 204817" src="https://github.com/user-attachments/assets/b55f2768-46d1-4149-b663-6de5826aa2ac" />
+
+---
+<img width="1127" height="545" alt="Captura de pantalla 2026-09-01 204724" src="https://github.com/user-attachments/assets/57b497ee-f8fd-424f-98cb-a68ae2410db0" />
 
 ---
 
@@ -38,16 +41,13 @@ Chatbot integrado capaz de leer la base de datos en tiempo real para auditar el 
 ### 📦 Gestión de Inventario (ABM)
 Módulo administrativo completo que permite agregar, editar o eliminar productos del catálogo de forma ágil, aplicando validaciones estrictas para mantener la integridad de la base de datos.
 
-<img width="1124" height="544" alt="Captura de pantalla 2026-09-01 210201" src="https://github.com/user-attachments/assets/5d3fcc39-91b3-4460-9816-20256057d1e8" />
+<img width="1129" height="546" alt="Captura de pantalla 2026-09-01 210119" src="https://github.com/user-attachments/assets/31a27d18-bf47-4f0d-936e-efd179ad5b48" />
 
 ---
 ### ⏱️ Historial y Descuento de Stock Automático
 Registro de movimientos en tiempo real. Al registrar el uso de un producto, el sistema descuenta automáticamente las unidades del inventario global y actualiza el historial sin necesidad de recargar la página.
 
-<img width="1129" height="546" alt="Captura de pantalla 2026-09-01 210119" src="https://github.com/user-attachments/assets/31a27d18-bf47-4f0d-936e-efd179ad5b48" />
-
-
-<img width="1127" height="545" alt="Captura de pantalla 2026-09-01 204724" src="https://github.com/user-attachments/assets/57b497ee-f8fd-424f-98cb-a68ae2410db0" />
+<img width="1124" height="544" alt="Captura de pantalla 2026-09-01 210201" src="https://github.com/user-attachments/assets/5d3fcc39-91b3-4460-9816-20256057d1e8" />
 
 
 
