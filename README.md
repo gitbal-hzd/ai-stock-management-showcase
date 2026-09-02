@@ -23,9 +23,12 @@ Una plataforma web Full Stack diseñada para automatizar y optimizar el control 
 ### 📊 Panel de Control (Dashboard Principal)
 Vista general del sistema donde el administrador puede visualizar métricas clave, productos con bajo stock y movimientos del mes.
 
-<img width="1330" height="580" alt="Captura de pantalla 2026-09-01 204445" src="https://github.com/user-attachments/assets/ba09bc18-5be4-4d63-b077-7a9cf9b6521f" />
+<img width="1310" height="597" alt="Captura de pantalla 2026-09-02 171823" src="https://github.com/user-attachments/assets/02176e7d-900c-43d3-a5fc-20b9c4936d4f" />
+
 
 ---
+
+<img width="1060" height="533" alt="Captura de pantalla 2026-09-02 171915" src="https://github.com/user-attachments/assets/01eadd36-5b5b-4f31-b06f-215734a04e4d" />
 
 ### 🤖 Asistente de Inteligencia Artificial y 📝 Carga Automatizada o Manual de Productos
 Chatbot integrado capaz de leer la base de datos en tiempo real para auditar el stock y alertar sobre quiebres de inventario.
