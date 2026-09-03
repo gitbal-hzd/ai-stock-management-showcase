@@ -36,6 +36,11 @@ Chatbot integrado capaz de leer la base de datos en tiempo real para auditar el 
 <img width="1138" height="549" alt="Captura de pantalla 2026-09-01 204817" src="https://github.com/user-attachments/assets/b55f2768-46d1-4149-b663-6de5826aa2ac" />
 
 ---
+
+<img width="1333" height="591" alt="Captura de pantalla 2026-09-03 151002" src="https://github.com/user-attachments/assets/39497de5-3306-4b3a-9353-009e8d7e8505" />
+
+
+---
 <img width="1127" height="545" alt="Captura de pantalla 2026-09-01 204724" src="https://github.com/user-attachments/assets/57b497ee-f8fd-424f-98cb-a68ae2410db0" />
 
 ---
